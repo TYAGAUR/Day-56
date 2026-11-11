@@ -1,0 +1,9 @@
+Common Python exceptions
+Exception	        When it occurs
+ValueError	        Invalid value conversion
+TypeError	        Incompatible data types
+KeyError	        Dictionary key doesn't exist
+IndexError	        List index doesn't exist
+ZeroDivisionError	Division by zero
+FileNotFoundError	Requested file doesn't exist
+AttributeError	    Object doesn't have the requested attribute
